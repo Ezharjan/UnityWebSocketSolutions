@@ -8,6 +8,8 @@ It automatically compiles browser or native implementation based on project's ta
 
 ## Downloading WebSocketSharp
 
+[Download page](https://www.nuget.org/packages/WebSocketSharp/)
+
 You can get `WebSocketSharp.dll` from NuGet package manager. See [NuGet Gallery: websocket-sharp](http://www.nuget.org/packages/WebSocketSharp).
 
 Library can be installed manually. Just download the NuGet package. Then rename the file extension from `.nupkg` to `.zip` and extract it. Now you can copy `lib/websocket-sharp.dll` file to your Unity project into the `Assets/Plugins` directory.
